@@ -34,4 +34,5 @@ ORFs can be found below the table with statistics
 
 ![image](https://user-images.githubusercontent.com/54145018/118988775-d6003b00-b9c4-11eb-8138-b126970af8df.png)
 
-
+What's next?
+I want to make this app faster
